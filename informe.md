@@ -1,3 +1,4 @@
+# Práctica 2: C#, Scripts
 1. Crea un script asociado a un objeto en la escena que inicialice un vector de 3 posiciones con valores entre 0.0 y 1.0, para tomarlo como un vector de color (Color). Cada 120 frames se debe cambiar el valor de una posición aleatoria y asignar el nuevo color al objeto. Parametrizar la cantidad de frames de espera para poderlo cambiar desde el inspector.  
 Se ha utilizado un int público para que se pueda modificar el númnero de frames desde el editor.  
 ![Ejercicio 1](https://github.com/AdrianMoraRodriguez/p02_II_Adrian_Mora_rodriguez/blob/main/Multimedia/ej1.gif)  
